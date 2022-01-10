@@ -1,10 +1,11 @@
 **{{ COURSE_CODE }} ({{ CREDITS }}) {{ TITLE }}**
 
-The [UBCO calendar description](http://www.calendar.ubc.ca/okanagan/courses.cfm?code=cosc) of this course is: 
+The [UBCO calendar description](http://www.calendar.ubc.ca/okanagan/courses.cfm?code=data) of this course is: 
 
-> Data visualization to produce graphs and images. 
+> Manipulation of data using software tools.
+> Data conversion, filtering, sorting, grouping, cleaning, parsing. 
+> Automation.
 > Advanced data analysis on spreadsheets. 
-> Credit will be granted for only one of DATA 301 or DATA 550. 
 > Restricted to students in the MDS program. 
 >
 > *Prerequisite*: {{ PREREQS }}

@@ -63,7 +63,7 @@ sphinx:
       SECTION: "001"
       CREDITS: "1"
       TITLE: "Dataviz I"
-      PREREQS: "All of DATA 530, DATA 531."
+      PREREQS: "All of DATA 532, DATA 540, DATA 541."
       COREQS: "N/A"
       TERM: "2021 Winter Term 2"
       ROOM: "Online Via Zoom"
