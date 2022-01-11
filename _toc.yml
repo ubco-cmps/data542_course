@@ -8,21 +8,21 @@ parts:
   - file: about/accommodations
 - caption: Lectures
   chapters:
-  - file: class/Lecture1
+  - file: class/Lecture1/Lecture1
     title: Lecture 1
-  - file: class/Lecture2
+  - file: class/Lecture2/Lecture2
     title: Lecture 2
-  - file: class/Lecture3
+  - file: class/Lecture3/Lecture3
     title: Lecture 3
-  - file: class/Lecture4
+  - file: class/Lecture4/Lecture4
     title: Lecture 4
-  - file: class/Lecture5
+  - file: class/Lecture5/Lecture5
     title: Lecture 5
-  - file: class/Lecture6
+  - file: class/Lecture6/Lecture6
     title: Lecture 6
-  - file: class/Lecture7
+  - file: class/Lecture7/Lecture7
     title: Lecture 7
-  - file: class/Lecture8
+  - file: class/Lecture8/Lecture8
     title: Lecture 8
 - caption: Labs
   chapters:
