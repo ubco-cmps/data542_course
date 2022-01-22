@@ -10,10 +10,12 @@ Course Schedule
 | 4                  | Thursday January 20                  | Fundamentals of Pandas III             | Live Class (via Zoom)                                                                                             |
 | <strike>5</strike> | <strike>Tuesday January 25</strike>  | No Class                               | N/A                                                                                                               |
 | <strike>6</strike> | <strike>Thursday January 27</strike> | No Class                               | N/A                                                                                                               |
-| 5                  | Tuesday February 1                   | Advanced Pandas I                      | Live Class (via Zoom)                                                                                             |
-| 6                  | Thursday February 3                  | Wrangling in R with the Tidyverse I    | [Recorded Videos](https://canvas.ubc.ca/courses/86767/pages/wrangling-in-r-part-1-videos-from-dr-tiffany-timbers) |
-| 7                  | Tuesday February 8                   | Wrangling in R with the Tidyverse I    | [Recorded Videos](https://canvas.ubc.ca/courses/86767/pages/wrangling-in-r-part-2-videos-from-dr-tiffany-timbers) |
-| 8                  | Thursday February 10                 | Wrangling in R with the Tidyverse II I | [Recorded Videos](https://canvas.ubc.ca/courses/86767/pages/wrangling-in-r-part-2-videos-from-dr-tiffany-timbers) |
+| 5                  | Tuesday February 1                   | Wrangling in R with the Tidyverse I    | [Recorded Videos](https://canvas.ubc.ca/courses/86767/pages/wrangling-in-r-part-1-videos-from-dr-tiffany-timbers) | 
+| 6                  | Thursday February 3                  | Wrangling in R with the Tidyverse I    | [Recorded Videos](https://canvas.ubc.ca/courses/86767/pages/wrangling-in-r-part-2-videos-from-dr-tiffany-timbers) |
+| 7                  | Tuesday February 8                   | Wrangling in R with the Tidyverse II I | [Recorded Videos](https://canvas.ubc.ca/courses/86767/pages/wrangling-in-r-part-2-videos-from-dr-tiffany-timbers) |
+| 8                  | Thursday February 10                 | Advanced Pandas I (Time Series)        | Live Class (via Zoom)                                                                                             |
+
+
 
 ## Learning Intentions
 
