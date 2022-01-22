@@ -6,4 +6,3 @@ sphinx_inline_tabs
 altair
 pandas
 linkify-it-py
-irkernel
