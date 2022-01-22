@@ -16,14 +16,26 @@ parts:
     title: Lecture 3
   - file: class/Lecture4/Lecture4
     title: Lecture 4
-  - file: class/Lecture5/Lecture5
-    title: Lecture 5
-  - file: class/Lecture6/Lecture6
-    title: Lecture 6
-  - file: class/Lecture7/Lecture7
-    title: Lecture 7
-  - file: class/Lecture8/Lecture8
-    title: Lecture 8
+  - file: class/R
+    title: Wrangling with the tidyverse
+    sections:
+      - file: class/R/01-intro-to-r-via-tidyverse
+        title: 1-Intro to R via tidyverse
+      - file: class/R/02-data-types-and-operators
+        title: 2-Data types and operators
+      - file: class/R/03-dates-strings-and-factors
+        title: 3-Dates, Strings as factors
+      - file: class/R/04-two-table-joins-and-base-control-flow
+        title: 4-Table Joins and Base Control Flow
+      - file: class/R/05-tidy-control-flow
+        title: 5-Tidyverse control-flow
+      - file: class/R/06-lecture-functions-and-testing
+        title: 6-Functions and Testing
+      - file: class/R/07-mapping-and-nested-data-frames
+        title: 7-Mapping and nested data frames
+      - file: class/R/08-lecture-tidy-evaluation
+        title: 8-Tidy Evaluation
+
 - caption: Labs
   chapters:
   - file: class/labs
