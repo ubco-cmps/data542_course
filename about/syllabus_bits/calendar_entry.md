@@ -5,7 +5,6 @@ The [UBCO calendar description](http://www.calendar.ubc.ca/okanagan/courses.cfm?
 > Manipulation of data using software tools.
 > Data conversion, filtering, sorting, grouping, cleaning, parsing. 
 > Automation.
-> Advanced data analysis on spreadsheets. 
 > Restricted to students in the MDS program. 
 >
 > *Prerequisite*: {{ PREREQS }}
